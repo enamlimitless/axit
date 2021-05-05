@@ -1,2 +1,2 @@
 # axit
-Live Preview: 
+Live Preview: https://enamulhaque7.github.io/axit/
